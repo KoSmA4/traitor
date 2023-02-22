@@ -3,7 +3,7 @@
 Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
 change in branch1
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
-
+something wrong
 - Nearly all of [GTFOBins](https://gtfobins.github.io/)
 - Writeable docker.sock
 - CVE-2022-0847 (Dirty pipe)
